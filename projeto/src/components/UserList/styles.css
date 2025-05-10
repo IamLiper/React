@@ -1,0 +1,22 @@
+.user-list h2 {
+    color: #ffffff;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.user-list ol {
+    list-style-type: decimal;
+    padding-left: 20px;
+    width: 80%;
+    margin-top: 10px;
+}
+
+.user-list ol li {
+    color: white;
+    padding: 8px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.user-list ol li:last-child {
+    border-bottom: none;
+}
