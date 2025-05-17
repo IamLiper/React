@@ -1,0 +1,15 @@
+/* src\components\ListaDeJogadoress\styles.css */
+
+.lista-Jogadoress li {
+    text-align: left;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #e9ecef;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #333;
+  }
+  
+  .lista-Jogadoress li strong {
+    font-weight: bold;
+  }
